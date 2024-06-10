@@ -54,14 +54,13 @@ To run the application follow the following steps :
 
 ### 2. Set up the MySQL database :
 
-- Update the application.properties file with your MySQL database details:
+- Update the application.properties file with your MySQL database details.
 
-  
-    spring.datasource.url=jdbc:mysql://localhost:3306/learningnavigator?createDatabaseIfNotExist=true 
-    spring.datasource.username=<your-userName> 
-    spring.datasource.password=<your-password> 
-    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
-    spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
+      spring.datasource.url=jdbc:mysql://localhost:3306/learningnavigator?createDatabaseIfNotExist=true 
+      spring.datasource.username=<your-userName> 
+      spring.datasource.password=<your-password> 
+      spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver 
+      spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
 
 #### 2. Navigate to the project directory :
 
