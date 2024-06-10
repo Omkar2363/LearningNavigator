@@ -117,7 +117,7 @@ To run the unit tests :
 
 A Postman collection has been included to test the API endpoints. Import the collection into Postman and start testing the API.
 
-https://www.postman.com/omkar2363/workspace/learningnavigator/collection/28208818-8b7dc279-9892-4c91-841f-00ef055d64de?action=share&creator=28208818
+[LearningNavigator Postman Collection Link](https://www.postman.com/omkar2363/workspace/learningnavigator/collection/28208818-8b7dc279-9892-4c91-841f-00ef055d64de?action=share&creator=28208818)
 ## Project Structure
 
 The project follows a layered architecture approach:
